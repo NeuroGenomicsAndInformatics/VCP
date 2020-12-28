@@ -1,2 +1,1 @@
-#
-VCP Manuscript
+# VCP Manuscript
